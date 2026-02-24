@@ -13,6 +13,16 @@
 
 ---
 
+## AntiCheat Menu
+
+**Manage and configure your AntiCheat easily with the in-game menu:**
+
+![AntiCheat Menu](https://ucarecdn.com/f17f8e00-2e42-4cb8-b1ca-adf7d2288cd9/147d82dc511c4360e3b10dee54356216.png)
+
+*Access settings, toggle protections, and monitor server activity directly from the menu.*
+
+---
+
 ## Showcase
 
 **See Reverse AntiCheat in action:**

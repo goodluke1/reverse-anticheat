@@ -17,13 +17,9 @@
 
 **See Reverse AntiCheat in action:**
 
-| Video 1                                                  | Video 2                                                  | Video 3                                                                        | Video 4                                                                        |
-| -------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [YouTube](https://www.youtube.com/watch?v=Ln8FFXoOHqM) | [YouTube](https://www.youtube.com/watch?v=jtsd-Cu7X2A) | [TikTok](https://www.tiktok.com/@reverseanticheat/video/7597370384316452118) | [TikTok](https://www.tiktok.com/@reverseanticheat/video/7545454063765245206) |
+[![YouTube 1](https://img.youtube.com/vi/Ln8FFXoOHqM/0.jpg)](https://www.youtube.com/watch?v=Ln8FFXoOHqM)  [![YouTube 2](https://img.youtube.com/vi/jtsd-Cu7X2A/0.jpg)](https://www.youtube.com/watch?v=jtsd-Cu7X2A)  [![TikTok 1](https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0e2bdf1e77a14863a73c7f7e3c7a7d55_1679999999~tplv-tiktok-play.jpeg)](https://www.tiktok.com/@reverseanticheat/video/7597370384316452118)  [![TikTok 2](https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1a3bdf3f9b2d4a9aa56f1df7e1c5f4bb_1679999999~tplv-tiktok-play.jpeg)](https://www.tiktok.com/@reverseanticheat/video/7545454063765245206)
 
-| Video 5                                                                        |
-| ------------------------------------------------------------------------------ |
-| [TikTok](https://www.tiktok.com/@reverseanticheat/video/7532120712564198678) |
+[![TikTok 3](https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/2b4cdf4d9c3f4b8bba76c3f5d4f6e7a1_1679999999~tplv-tiktok-play.jpeg)](https://www.tiktok.com/@reverseanticheat/video/7532120712564198678)
 
 ---
 

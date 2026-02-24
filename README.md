@@ -4,7 +4,7 @@
 
 ---
 
-## Key Features
+## Features
 
 * **Advanced Anti-Cheat** – Blocks internal and external cheats
 * **Anti Weapon Give / Anti Spawn Vehicles** – Prevent abuse and exploits

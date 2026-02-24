@@ -1,6 +1,6 @@
 # Reverse AntiCheat – Advanced Protection for Your Server
 
-**Create a safe and stable environment for your players. Reverse AntiCheat prevents hacks without consuming unnecessary resources or modifying server files. Easy to install and fully optimized servers.**
+**Create a safe and stable environment for your players. Reverse AntiCheat prevents hacks without consuming unnecessary resources or modifying server files. Easy to install and fully optimized.**
 
 ---
 

@@ -1,17 +1,34 @@
-# Reverse Anticheat
+# Reverse AntiCheat – Advanced Protection for Your Server
 
-Reverse anticheat is the solution for your server, low consumption, doesn't waste other resources like other anticheats do, doesn't modify files, just creates a better environment for your players to roleplay.
+**Create a safe and stable environment for your players. Reverse AntiCheat prevents hacks without consuming unnecessary resources or modifying server files. Easy to install and fully optimized for roleplay servers.**
 
-## Features
-- Advanced Protection: Anti Internal/External Cheats 
-- Anti Weapon Give, Anti Spawn Vehicles & more!
-- Stability & Performance.
-- others :)
+---
 
-Don't let hackers destroy your server! Choose Reverse AntiCheat and give your players a fair-play experience!
+## Key Features
 
-## Community
-[Discord Server](https://discord.gg/qbceBNFk7G)
-[Website](https://reverse-anticheat.eu/)
-[Store](https://reverseac.tebex.io/)
+* **Advanced Anti-Cheat** – Blocks internal and external cheats
+* **Anti Weapon Give / Anti Spawn Vehicles** – Prevent abuse and exploits
+* **Stability & Performance** – Minimal impact on server resources
+* **Easy to Use** – No complex configuration required
 
+---
+
+## Showcase
+
+**See Reverse AntiCheat in action:**
+
+[![Showcase 1](https://img.youtube.com/vi/Ln8FFXoOHqM/0.jpg)](https://www.youtube.com/watch?v=Ln8FFXoOHqM)
+
+*Real-time protection against hackers.*
+
+[![Showcase 2](https://img.youtube.com/vi/jtsd-Cu7X2A/0.jpg)](https://www.youtube.com/watch?v=jtsd-Cu7X2A)
+
+*Maintains server stability and fair gameplay.*
+
+---
+
+## Community & Links
+
+* [Discord Server](https://discord.gg/qbceBNFk7G)
+* [Website](https://reverse-anticheat.eu/)
+* [Store](https://reverseac.tebex.io/)

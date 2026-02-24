@@ -19,11 +19,11 @@
 
 | Video 1                                                  | Video 2                                                  | Video 3                                                                        | Video 4                                                                        |
 | -------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [YouTube 1](https://www.youtube.com/watch?v=Ln8FFXoOHqM) | [YouTube 2](https://www.youtube.com/watch?v=jtsd-Cu7X2A) | [TikTok 1](https://www.tiktok.com/@reverseanticheat/video/7597370384316452118) | [TikTok 2](https://www.tiktok.com/@reverseanticheat/video/7545454063765245206) |
+| [YouTube](https://www.youtube.com/watch?v=Ln8FFXoOHqM) | [YouTube](https://www.youtube.com/watch?v=jtsd-Cu7X2A) | [TikTok](https://www.tiktok.com/@reverseanticheat/video/7597370384316452118) | [TikTok](https://www.tiktok.com/@reverseanticheat/video/7545454063765245206) |
 
 | Video 5                                                                        |
 | ------------------------------------------------------------------------------ |
-| [TikTok 3](https://www.tiktok.com/@reverseanticheat/video/7532120712564198678) |
+| [TikTok](https://www.tiktok.com/@reverseanticheat/video/7532120712564198678) |
 
 ---
 
